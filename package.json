@@ -1,0 +1,17 @@
+{
+  "name": "@lorenzo/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:loryman/prettier-config.git",
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Lorenzo Rapetti <lorenzo.rapetti.94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loryman/prettier-config/issues"
+  },
+  "homepage": "https://github.com/loryman/prettier-config#readme"
+}
